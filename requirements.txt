@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+pandas
+chromadb
+sentence-transformers
+langchain
+langchain-google-genai
