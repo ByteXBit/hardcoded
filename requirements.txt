@@ -6,3 +6,4 @@ chromadb
 sentence-transformers
 langchain
 langchain-google-genai
+protobuf>=3.20.0,<4.0.0
